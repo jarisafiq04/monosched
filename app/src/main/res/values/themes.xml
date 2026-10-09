@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Monosched" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <!-- ponytail: launch splash — black backdrop, centered mark, auto-dismisses on first draw -->
+    <style name="Theme.Monosched.Starting" parent="Theme.Monosched">
+        <item name="android:windowSplashScreenBackground">@android:color/black</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/monosched</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">@android:color/black</item>
+    </style>
+</resources>

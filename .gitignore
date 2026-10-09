@@ -1,0 +1,25 @@
+# Gradle
+.gradle/
+build/
+**/build/
+local.properties
+*.iml
+.idea/
+# Android Studio
+*.hprof
+# OS
+.DS_Store
+Thumbs.db
+# Signing
+*.jks
+*.keystore
+# Non-project files sharing this folder
+*.docx
+hs_err_pid*.log
+pc-server/
+phone
+q
+qstest.txt
+arabic-manuscript-verify-mcp.json
+shamela-scholar-mcp/
+stress-test.mjs

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Monosched</string>
+    <string name="widget_week_desc">Scrollable week timetable</string>
+    <string name="widget_current_desc">Current class at a glance</string>
+</resources>
