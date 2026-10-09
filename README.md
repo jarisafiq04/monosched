@@ -1,5 +1,7 @@
 # Monosched
 
+<img src="docs/icon.png" alt="Monosched icon" width="120" />
+
 A monochrome weekly timetable for Android. Table-first UI, full 24-hour grid,
 file import, class reminders, and two home-screen widgets. Jetpack Compose,
 single `timetable.json` store, no database, no accounts.
